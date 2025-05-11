@@ -1,0 +1,19 @@
+{
+    "details": [
+        {
+            "title": "Email",
+            "value": "akofficialnp@gmail.com",
+            "icon": "mail"
+        },
+        {
+            "title": "Phone",
+            "value": "+9779764450416",
+            "icon": "phone"
+        },
+        {
+            "title": "Location",
+            "value": "Biratnagar, Nepal",
+            "icon": "map-pin"
+        }
+    ]
+}

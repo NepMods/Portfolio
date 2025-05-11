@@ -1,0 +1,44 @@
+{
+    "work": [
+        {
+            "title": "Personal Projects",
+            "company": "Personal Projects",
+            "duration": "Past - Present",
+            "description": "Worked on various high level, production ready personal projects",
+            "tags": [
+                "C++",
+                "Java",
+                "Python",
+                "Android NDK",
+                "Frida",
+                "Dobby",
+                "KittyMemory",
+                "ImGui",
+                "Il2Cpp",
+                "AIDL",
+                "CMake",
+                "Makefile"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelors on Computer Application",
+            "institution": "Nihareeka College, Biratnagar",
+            "duration": "2021-present",
+            "description": "Currently doing BCA at Nihareeka College, Biratnagar"
+        },
+        {
+            "degree": "11/12",
+            "institution": "Tribeni Secondary School, Dhankuta",
+            "duration": "2021-2023",
+            "description": "Finished 11/12 aka high school on Tribeni Secondary School"
+        },
+        {
+            "degree": "SEE",
+            "institution": "Arunodaya Ma.Vi Bhojpur, Nepal",
+            "duration": "2009 - 2020",
+            "description": "Finished school on local school."
+        }
+    ]
+}
